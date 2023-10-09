@@ -18,7 +18,3 @@ Skolprojekt i kursen "Webbdesign och användarupplevelse"
 
 <img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/5a3017d0-faa0-44c2-a289-89366fd79253" width="500px">
 <img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/1a38e543-3ea9-4ae8-bf03-9a4b973f91cf" width="500px">
-
-<h2>Logga - Ekbackens honung</h2>
-
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/9fbe59af-0d24-47af-aae4-eb3c0961395b" width="300px">
