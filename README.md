@@ -19,7 +19,7 @@ Skolprojekt i kursen "Webbdesign och användarupplevelse"
 <img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/5a3017d0-faa0-44c2-a289-89366fd79253" width="500px">
 <img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/1a38e543-3ea9-4ae8-bf03-9a4b973f91cf" width="500px">
 
-<h2>Figma - Restaurant - desktop version</h2>
+<h2>Figma - Restaurang webbsida - desktop version</h2>
 
 <img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/8a9fa240-1d22-4a44-a2f1-18acc9467e79" width="500px">
 
