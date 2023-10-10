@@ -5,21 +5,25 @@ Prototyper, webbdesign, loggor mm
 
 Skolprojekt i kursen "Webbdesign och användarupplevelse"
 
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/495436a7-b36f-4ade-8000-2b79de912d40" width="400px">
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/0e71545a-19d6-4884-9f05-6c45ed3b979a" width="400px">
+![Prototyp-webbsida-hyrbilar-desktop](https://github.com/juuliiaazz/Portfolio/assets/92580700/ab632be0-b4a4-48bc-b8d7-37303d2282d0)
+![Prototyp-webbsida-hyrbilar-desktop2](https://github.com/juuliiaazz/Portfolio/assets/92580700/a5fccf4b-667e-45c8-b980-f8ec4e30ae25)
 
 
 <h2>Figma - webbsida för hyrbilar - mobile version</h2>
 
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/57ccbd76-f70a-401a-8981-e92cf9267588">
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/ce24e80b-8058-4e1e-86c6-b3f02186f111">
-
-<h2>Figma - FAQ-webbapplikation - desktop version</h2>
-
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/5a3017d0-faa0-44c2-a289-89366fd79253" width="500px">
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/1a38e543-3ea9-4ae8-bf03-9a4b973f91cf" width="500px">
+![Prototyp-webbsida-hyrbil-mobile](https://github.com/juuliiaazz/Portfolio/assets/92580700/646befbe-81df-44e4-a20d-b29453655ace)
+![Prototyp-webbsida-hyrbil-mobile2](https://github.com/juuliiaazz/Portfolio/assets/92580700/99b55d8a-951d-4c70-a314-a20ffe9e4934)
 
 <h2>Figma - Restaurang webbsida - desktop version</h2>
 
-<img src="https://github.com/juuliiaazz/Portfolio/assets/92580700/8a9fa240-1d22-4a44-a2f1-18acc9467e79" width="500px">
+![Prototyp-restaurant](https://github.com/juuliiaazz/Portfolio/assets/92580700/7709d228-1667-4e87-b93f-b97825fbb285)
+
+
+<h2>Figma - FAQ-webbapplikation - desktop version</h2>
+
+![Prototyp-faq1](https://github.com/juuliiaazz/Portfolio/assets/92580700/78cb0761-a26a-47bc-be28-abc3d65a1403)
+![Prototyp-faq2](https://github.com/juuliiaazz/Portfolio/assets/92580700/a9d9ccca-929e-4bf9-bbd6-79595fa7c5bd)
+
+
+
 
