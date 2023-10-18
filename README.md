@@ -24,6 +24,9 @@ Skolprojekt i kursen "Webbdesign och användarupplevelse"
 ![Prototyp-faq1](https://github.com/juuliiaazz/Portfolio/assets/92580700/78cb0761-a26a-47bc-be28-abc3d65a1403)
 ![Prototyp-faq2](https://github.com/juuliiaazz/Portfolio/assets/92580700/a9d9ccca-929e-4bf9-bbd6-79595fa7c5bd)
 
+<h2>Figma - Hälsoapplikation - mobil</h2>
 
+
+![Prototyp-hälsa-mobilapp](https://github.com/juuliiaazz/Portfolio/assets/92580700/ca1a3d5a-10ac-4fbc-8e1c-0e1110d4b9e0)
 
 
