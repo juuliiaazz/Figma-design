@@ -3,7 +3,7 @@ Prototyper, webbdesign, loggor mm
 
 <h2>Figma - webbsida för hyrbilar - desktop version</h2>
 
-Skolprojekt i kursen "Webbdesign och användarupplevelse"
+Grupp-projekt i kursen "Webbdesign och användarupplevelse"
 
 ![Prototyp-webbsida-hyrbilar-desktop](https://github.com/juuliiaazz/Portfolio/assets/92580700/ab632be0-b4a4-48bc-b8d7-37303d2282d0)
 ![Prototyp-webbsida-hyrbilar-desktop2](https://github.com/juuliiaazz/Portfolio/assets/92580700/a5fccf4b-667e-45c8-b980-f8ec4e30ae25)
